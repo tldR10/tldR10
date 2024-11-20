@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tldR10
-- 👀 I’m interested in practicising my skills in R and Python
+- 👀 I’m interested in practicising my skills in SAS, R and Python
 
 <!---
 tldR10/tldR10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
